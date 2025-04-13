@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Open Browser",
+  "Type": "Screen",
+  "Id": "YjMeQ1QTG02rMdZwsmuqrQ",
+  "Reference": "sxShiDewyUKHqo7S3qtqnA/YjMeQ1QTG02rMdZwsmuqrQ",
+  "ParentRef": "sxShiDewyUKHqo7S3qtqnA/CkUKYg4YxEigoG6ukjozwQ",
+  "Created": "2025-04-11T05:00:27.0001956Z",
+  "Updated": "2025-04-11T05:05:37.7699093Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

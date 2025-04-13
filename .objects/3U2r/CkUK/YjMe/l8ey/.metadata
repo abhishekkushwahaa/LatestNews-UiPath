@@ -1,0 +1,14 @@
+﻿{
+  "Name": "News",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "l8eyxc9ap0mgKm3OFCq-Cg",
+  "Reference": "sxShiDewyUKHqo7S3qtqnA/l8eyxc9ap0mgKm3OFCq-Cg",
+  "ParentRef": "sxShiDewyUKHqo7S3qtqnA/YjMeQ1QTG02rMdZwsmuqrQ",
+  "Created": "2025-04-11T05:20:17.065526Z",
+  "Updated": "2025-04-11T05:20:17.065526Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

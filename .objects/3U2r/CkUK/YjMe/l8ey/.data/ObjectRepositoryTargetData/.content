@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="qB-6BT3We0KPuAAIWNIc8A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="bing.com/search" CVScreenId="ff5382df-3fcf-428f-870c-d427fb300882" CvTextArea="907, 249, 37, 12" CvTextArgument="NEWS" CvType="Text" DesignTimeRectangle="910, 234, 126, 45" DesignTimeScaleFactor="1.1458333730697632" ElementType="Text" FullSelectorArgument="&lt;webctrl parentid='b-scopeListItem-news' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='b-scopeListItem-news' tag='A' type='' class='' aaname='News' check:innerText='NEWS' /&gt;" Guid="525be412-18c7-470b-bd0b-53ddf3cadc79" ScopeSelectorArgument="&lt;html app='msedge.exe' title='uipath - Search' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="1f64de21eded56b1c31f16a77e7cfa88.png" xmlns="">0yzBsxYXCzEiVsqcCq50fjw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

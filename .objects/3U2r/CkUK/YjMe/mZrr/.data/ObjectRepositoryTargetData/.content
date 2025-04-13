@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="YfAtCQITJ06FCjaYzrPndQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="bing.com" CVScreenId="bc05be61-1f3b-4657-a760-9a64fe80d166" CvElementArea="392, 290, 1128, 64" CvType="InputBox" DesignTimeRectangle="457, 309, 966, 25" DesignTimeScaleFactor="1.1458333730697632" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='sb_form_q' tag='TEXTAREA' type='search' class='sb_form_q sb_form_ta' aaname='' /&gt;" Guid="bf783576-5fd1-4a51-8317-3376df0d815f" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Search - Microsoft Bing' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="78211fbb1489a8c1fdf893e1c32a1896.png" xmlns="">0uKyaCHNqGE-MWgLTWPJsdg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

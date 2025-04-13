@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="D_cm5wmSUEaHn3kpYbyGgg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-9, -9, 1938, 1098" BrowserType="Edge" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAFvSURBVFhHxZXLdcMgEEVdAiWkFO+ySStG6sDuwO7AKcSCEpQOXIpzQIjPeyKBE53J4m4u42GYQfjwPn4c/hMS0pCQhoQ0JKQhIQ2JGmq0R6UfN6XNU2nzCsxqmO5qtG8Y3woJRI1WqcFes023Gaari8Xf/waJHL+5nr5oszpzbxEkcujkJ2P9KMImy1jMJ3YC8/wEiRU31/J00wVjYqyeLkXsaI8YU4NESvpIJxvsHdcR351UxA3Xa5CICd08O04UxrEW8MT1GiRiwqyluLbFcmH7fuMgEROWM2262XsXkB6c/hHMuF6DREyojXv1loQnY3Ed6b20KyRiwvJEL6XtGWNirLbnIrbjaSaRU3TBn8y/+34c/tK5IsvPr6lbOSRyws1On2Mz9W4hJJBQRNmJLbATjUWQqBGeZnfR8o64L+UWx4JPckMRJP5KbxEk9qCnCBJ7gUXg+gqJPUlF1P/KSUhDQhoS0pCQhoQ0JKT5Bidhx1JxJgzkAAAAAElFTkSuQmCC" Selector="&lt;html app='msedge.exe' title='Search - Microsoft Bing' /&gt;" Url="https://www.bing.com/" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="534aa34edf135d30fd666e1435dd24d5.jpg" xmlns="">0QIGxOlDLfEaaeDaeoB43pw</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

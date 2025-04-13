@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Type Search Box",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "VYF3zLUau0GupesumNYy3Q",
+  "Reference": "sxShiDewyUKHqo7S3qtqnA/VYF3zLUau0GupesumNYy3Q",
+  "ParentRef": "sxShiDewyUKHqo7S3qtqnA/x86B4ln7ukWk-XsjKhvK8w",
+  "Created": "2025-04-13T11:36:48.5408704Z",
+  "Updated": "2025-04-13T11:38:05.6995319Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="9NwcZSBK9EyxhJANLqA8GA" Reference="sxShiDewyUKHqo7S3qtqnA/VYF3zLUau0GupesumNYy3Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com" CVScreenId="e2115783-4fa5-468c-a246-1aec57869d78" CvElementArea="634, 522, 664, 57" CvType="InputBox" DesignTimeRectangle="690, 526, 508, 53" DesignTimeScaleFactor="1.1458333730697632" ElementType="InputBox" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl tag='TEXTAREA' aaname='Search' /&gt;" Guid="a88626c1-5aef-44d6-9273-4b73fe21f888" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Google' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="a38b28335c46bd3fd9ff483ce0fb8be9.png" xmlns="">0GUHeCYkkTkCZX8VK-ML74g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

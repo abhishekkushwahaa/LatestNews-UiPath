@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="o45TEUEMK0OyABo66sq9xw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="bing.com/search" CVScreenId="03e6e44e-9043-4620-bb21-cacaec18da2d" CvTextArea="907, 200, 37, 12" CvTextArgument="MORE" CvType="Text" DesignTimeRectangle="882, 190, 72, 35" DesignTimeScaleFactor="1.1458333730697632" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aria-label='Dropdown Menu' aria-role='button' tag='A' type='' class='' aaname='More' check:innerText='MORE' /&gt;" Guid="43f93660-0e17-4678-b488-aafbc4c45a10" ScopeSelectorArgument="&lt;html app='msedge.exe' title='uipath - Search' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="07a40777ede72dea8e8496f9045571bb.png" xmlns="">0Jce1sKqw8UOGaNVCUdtd9w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

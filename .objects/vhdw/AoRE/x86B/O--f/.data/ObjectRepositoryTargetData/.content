@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="5fK3TzKUXUOHcuBQvaGPog" Reference="sxShiDewyUKHqo7S3qtqnA/O--fTU4VFUSDkLz7zKBHTg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" CVScreenId="3bd663be-1e3f-41c9-be45-15660d1cc689" CvTextArea="314, 261, 40, 14" CvTextArgument="News" CvType="Text" DesignTimeRectangle="325, 214, 41, 14" DesignTimeScaleFactor="1.1458333730697632" ElementType="Text" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl aaname='News' tag='A' innerText='News' /&gt;" Guid="64486a82-44b4-4201-babc-d0bc2a822b24" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='*Google Search' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.PointOffset>
+        <PointOffset X="-3" Y="-6" />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="6f1dbcc54529174cb9f4165a661ee620.png" xmlns="">0S2wCNPQJJUKmOitG3tZpmg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
